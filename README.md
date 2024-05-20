@@ -210,6 +210,53 @@ https://docs.oracle.com/javase/9/whatsnew/toc.htm#JSNEW-GUID-825576B5-203C-4C8D-
 https://openjdk.org/projects/jdk/17/
 https://openjdk.org/projects/jdk/
 
+
+<h1> Rabiul islam</h1>
+<h3>JAVA Developer</h3>
+ Exploring Java Features from Version 9 to 17!
+
+Are you curious about the latest enhancements in Java? Look no further! In this post, we’ll dive into the exciting features introduced in Java versions 9 through 17, complete with practical examples.
+
+🔍 Java 9 (2017):
+Module System (Jigsaw): Modularize your codebase for better organization and encapsulation.
+Private Methods in Interfaces: Declare private methods within interfaces.
+Try-With-Resources Improvements: Simplify resource management using try-with-resources.
+
+🔍 Java 10 (2018):
+Local Variable Type Inference (var): Use var to infer variable types.
+Optional.orElseThrow(): Throw an exception if an optional value is absent.
+
+🔍 Java 11 (2018):
+HTTP Client: A modern HTTP client API.
+String Methods: New methods like isBlank(), strip(), and lines().
+
+🔍 Java 12 (2019):
+Switch Expressions: Simplified switch statements.
+New String Methods: transform() and indent().
+
+🔍 Java 13 (2019):
+Text Blocks: Multiline strings with improved readability.
+Switch Expressions Enhancements: Yield values and arrow syntax.
+
+🔍 Java 14 (2020):
+Records: Concise data classes.
+Pattern Matching for instanceof: Simplified type checks.
+
+🔍 Java 15 (2020):
+Sealed Classes: Control class inheritance.
+Text Blocks Enhancements: Escape sequences and formatting.
+
+🔍 Java 16 (2021):
+Records Enhancements: More flexibility.
+Pattern Matching for switch: Simplified switch expressions.
+
+🔍 Java 17 (2021):
+Sealed Classes Enhancements: Permit more classes.
+Deprecation Warning for Value-Based Classes: Improve safety.
+
+Explore these features in detail with code examples in the GitHub repository below:
+
+
 # **Next Big things:**
 1. Project Loom: https://openjdk.org/projects/loom/      :    https://developer.okta.com/blog/2022/08/26/state-of-java-project-loom
 2. Project Valhalla: https://openjdk.org/projects/valhalla/
